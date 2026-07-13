@@ -1,0 +1,6 @@
+# QGSS 2026 — Lab 0 requirements (Python 3.12)
+qiskit[visualization]==2.5.0
+qiskit-aer==0.17.2
+qiskit-ibm-runtime==0.47.0
+matplotlib==3.11.0
+qc-grader==2026.7.2
