@@ -1,6 +1,17 @@
-# QGSS 2026 — Lab 0 requirements (Python 3.12)
+# QGSS 2026 — lab requirements (Python 3.12)
 qiskit[visualization]==2.5.0
 qiskit-aer==0.17.2
 qiskit-ibm-runtime==0.47.0
 matplotlib==3.11.0
 qc-grader==2026.7.2
+
+# Lab 3 — Samplomatic and the Qiskit add-ons
+numpy==2.5.1
+ipython==9.15.0
+samplomatic==0.20.0
+qiskit-addon-utils==0.4.0
+qiskit-addon-pna==0.2.0
+qiskit-addon-slc==0.1.0
+plotly==6.9.0
+pylatexenc==2.10
+nbformat==5.10.4
