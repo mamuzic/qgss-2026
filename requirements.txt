@@ -15,3 +15,8 @@ qiskit-addon-slc==0.1.0
 plotly==6.9.0
 pylatexenc==2.10
 nbformat==5.10.4
+
+# Lab 4 — QAOA workflow and error mitigation
+mthree==3.0.0
+qiskit-addon-opt-mapper==0.1.0
+qopt-best-practices @ git+https://github.com/qiskit-community/qopt-best-practices.git
