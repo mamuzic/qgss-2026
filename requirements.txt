@@ -20,3 +20,4 @@ nbformat==5.10.4
 mthree==3.0.0
 qiskit-addon-opt-mapper==0.1.0
 qopt-best-practices @ git+https://github.com/qiskit-community/qopt-best-practices.git
+rustworkx==0.18.0
